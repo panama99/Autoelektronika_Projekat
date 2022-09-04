@@ -1,0 +1,5 @@
+﻿  main_application.c
+C:\Users\Korisnik\Desktop\MATERIJALI\Projekat\Starter\main_application.c(88,10): warning C4101: 'cc': unreferenced local variable
+C:\Users\Korisnik\Desktop\MATERIJALI\Projekat\Starter\main_application.c(84,10): warning C4101: 'taster1': unreferenced local variable
+C:\Users\Korisnik\Desktop\MATERIJALI\Projekat\Starter\main_application.c(194,11): warning C4778: 'printf' : unterminated format string '% \n'
+  Starter.vcxproj -> C:\Users\Korisnik\Desktop\MATERIJALI\Projekat\Debug\Starter.exe
